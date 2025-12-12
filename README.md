@@ -8,5 +8,3 @@ This repository contains functions for quantitative genetic analysis of ranking 
 - Implement models such as Thurstonian and Plackett-Luce for ranking data.
 - Designed for on-farm trials in plant breeding programs.
 
-## Installation
-Clone the repository to your local machine:

@@ -19,3 +19,5 @@ This repository contains functions for quantitative genetic analysis of ranking 
 - **ASReml** – fitting mixed-effect models
 ---
 
+## License
+This project is released under the MIT License.
